@@ -30,7 +30,7 @@ Elderly individuals are at high risk of falling due to age-related issues such a
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](photos/circuit-diagram.png)
+![Circuit Diagram](circuit-diagram.png)
 
 | Connection | ESP32 Pin |
 |-----------|-----------|
